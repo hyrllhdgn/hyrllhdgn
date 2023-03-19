@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Mobile and Web Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Mobile and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 ---
 
